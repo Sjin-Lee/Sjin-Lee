@@ -1,15 +1,16 @@
 ### Hi there 👋 
 I'm Sijin Li (李思进）, currently a bachelor's student at UESTC
 
+My research interests focus on computer architecture and operating systems. With the emergence of new applications, there's always a need to design suitable, highly-efficiency computer systems to support the development and deployment of those applications.
 
+I'm currently pursing 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: sijinlisijin@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/she/her/they/them/anything
 
 
 ### 🤖 Skills
